@@ -1,0 +1,23 @@
+{
+    "name": "fictional-univesity",
+    "version": "1.0.0",
+    "description": "Fictional University Theme",
+    "main": "index.js",
+    "scripts": {
+        "build": "wp-scripts build",
+        "start": "wp-scripts start",
+        "dev": "wp-scripts start",
+        "devfast": "wp-scripts start",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "cesc",
+    "license": "",
+    "dependencies": {
+        "@glidejs/glide": "^3.4.1",
+        "@wordpress/scripts": "*",
+        "axios": "^0.21.1"
+    }
+
+
+}
